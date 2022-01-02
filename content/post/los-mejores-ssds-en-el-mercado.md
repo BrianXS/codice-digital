@@ -1,7 +1,7 @@
 ---
 timeToRead: 5
 authors:
-- Tatsuro
+- Tatsuro Yamashita
 title: Los mejores SSDs en el mercado
 excerpt: Una lista detallada sobre los mejores SSDs segmentados por diferentes categorias.
 date: 2022-01-02T05:00:00+00:00
