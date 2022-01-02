@@ -1,8 +1,8 @@
 ---
-title: Why we built a company before building a product
-date: 2019-04-30
-hero: "/images/hero-6.jpg"
-excerpt: this is my excerpt
+title: Los mejores SSDs en el mercado
+date: 2022-01-02T05:00:00+00:00
+hero: "/images/ssd-2048px-0101-3x2-1.jpg"
+excerpt: Una lista detallada sobre los mejores SSDs segmentados por diferentes categorias.
 timeToRead: 3
 authors:
 - Tatsuro
