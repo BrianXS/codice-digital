@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/los-mejores-psus-en-el-mercado.md
 - content/post/los-mejores-ssds-en-el-mercado.md
