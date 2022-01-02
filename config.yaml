@@ -1,7 +1,7 @@
 ---
 baseURL: https://example.com
 languageCode: en-us
-title: Hugo Novela
+title: Códice Digital
 pygmentsstyle: monokai
 metaDataFormat: yaml
 module:
