@@ -10,7 +10,7 @@ hero: "/images/ssd-2048px-0101-3x2-1.jpg"
 ---
 Ya sea para sustituir una unidad de estado sólido existente o para actualizar un disco duro tradicional y obtener un mejor rendimiento, casi todas las unidades SSD que se pueden comprar hoy en día son una excelente opción.
 
-Pero si buscas la mejor relación calidad-precio, las unidades que cuenten con los  controladores **Phison E18 o Phison E16 de gama alta,**  **Phison E12 de gama media**, seran los indicados para cualquiera que tenga un ordenador de sobremesa o portátil moderno.
+Pero si buscas la mejor relación calidad-precio, las unidades que cuenten con los  controladores **Phison E18 o Phison E16 de gama alta,**  **Phison E12 o la serie de controladores SM226* de gama media**, seran los indicados para cualquiera que tenga un ordenador de sobremesa o portátil moderno.
 
 
 Entre los ssd de gama alta con el controlador **Phison E18 o Phison E16** se destacan los siguientes:
@@ -23,12 +23,11 @@ Entre los ssd de gama alta con el controlador **Phison E18 o Phison E16** se des
 
 Mientras que para la gama media con el controlador **Phison E12** tenemos las siguientes recomendaciones:
 
-[]() (Precio $)
-[]() (Precio $)
-[]() (Precio $)
-[]() (Precio $)
-[]() (Precio $)
-[]() (Precio $)
+[HP EX950](https://amzn.to/3sP5p1Q) (Precio $102.39)
+[Sabrent Rocket](https://amzn.to/3ENCUEh) (Precio $99.99)
+[Patriot Viper VPN100](https://amzn.to/3qKy9WS) (Precio $109.99)
+[TEAMGROUP MP34](https://amzn.to/3JCK81y) (Precio $94.99)
+[Sabrent Rocket Q4](https://amzn.to/3sRmAjn) (Precio $109.99)
 
 
 Para concluir en la gama baja encontramos opciones muy variadas con precios muy competitivos, que sean de gama baja no significa que sea un producto de calidad inferior por el contrario en codice digital creemos que es la seccion con las unidades de mayor valor agregado.
